@@ -25,11 +25,8 @@ Moodle verify certrt block
  * Full details of the issued certrt is displayed including profile picture.
  * Mostly cosmetic changes to the original codes from Jean-Michel Védrine.
  * Original Autor & Copyright - Jean-Michel Védrine | 2014
+ * CerTRT Team: Gabriel Bressane Silva, Lucila Helena Allan Leskow, Marcelo Hayashi Moraes, Vinicius Martins Ferraz
  *
- * @copyright           2015 onwards Manieer Chhettri | Marie Curie, UK | <manieer@gmail.com>
- * @author              Manieer Chhettri | Marie Curie, UK | <manieer@gmail.com> | 2015
- * @package             block_verify_certrt
- * @license             http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 /*
